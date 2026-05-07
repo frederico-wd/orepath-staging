@@ -19,7 +19,7 @@ const posts = [
     category: 'Case Studies',
     date: 'February 28, 2024',
     excerpt: 'Detailed breakdown of how our advisory team accelerated the feasibility study for a Tier-2 gold operation in WA.',
-    image: 'https://images.unsplash.com/photo-1574689232150-0448100589d9?auto=format&fit=crop&q=80&w=600',
+    image: 'https://images.unsplash.com/photo-1624365169364-0640dd10e180?auto=format&fit=crop&q=80&w=600',
   },
   {
     id: 3,
